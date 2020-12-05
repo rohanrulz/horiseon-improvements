@@ -88,6 +88,69 @@ p {
     margin-left: 20px;
 }
 
+/* this styling is for the search-engine-optimization class*/
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* this styling is for the online-reputation-management class*/
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* this styling is for the social-media-marketing class*/
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* this styling is for the image element of the search-engine-optimization class*/
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/* this styling is for the image element of the online-reputation-management class*/
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/* this styling is for the image element of the social-media-marketing class*/
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* this styling is for the h2 element of the search-engine-optimization class*/
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* this styling is for the h2 element of the online-reputation-management class*/
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* this styling is for the h2 element of the social-media-marketing class*/
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* this styling is for the benefits class*/
 .benefits {
     margin-right: 20px;
@@ -157,78 +220,4 @@ p {
     max-width: 150px;
 }
 
-/* this styling is for the search-engine-optimization class*/
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-/* this styling is for the online-reputation-management class*/
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* this styling is for the social-media-marketing class*/
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* this styling is for the image element of the search-engine-optimization class*/
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/* this styling is for the image element of the online-reputation-management class*/
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/* this styling is for the image element of the social-media-marketing class*/
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* this styling is for the h2 element of the search-engine-optimization class*/
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* this styling is for the h2 element of the online-reputation-management class*/
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* this styling is for the h2 element of the social-media-marketing class*/
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* this styling is for the footer class*/
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-/* this styling is for the h2 element of the footer class*/
-.footer h2 {
-    font-size: 20px;
-}
